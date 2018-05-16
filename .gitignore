@@ -1,0 +1,5 @@
+/app/node_modules
+/app/logs
+/app/data
+/app/config/config.js
+/development/vagrant/.vagrant
